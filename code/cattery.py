@@ -4,6 +4,9 @@ from __future__ import absolute_import, unicode_literals, print_function
 
 # Exceptions
 
+def hello(mygreeting):
+    print(mygreeting)
+
 class CatNotFound(Exception):
     """The requested cat was not found in the cattery."""
 
