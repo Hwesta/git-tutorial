@@ -1,5 +1,9 @@
 # Git Tutorial
 
+The first thing that you should know, before attempting any git, is that Meghan is class.
+
+If you don't know what class means, in this context and you are from north america, you may be forgiven. It means awesome.
+
 Used git, but only a little?
 Want to know more about collaborating with other people?
 Check out our git tutorial!
