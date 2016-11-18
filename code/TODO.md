@@ -2,7 +2,6 @@
 
 Suggested changes when experimenting with merges & rebases.
 
-
 * add a comment here!
 * Error checking in `Cattery.add_cats`; Don't allow strings to be passed in
 * Add tests for `Cattery.num_cats` and `Cattery.cats`
