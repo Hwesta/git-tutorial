@@ -1,4 +1,4 @@
-# Git Tutorial
+# Git Tutorial ✨
 
 Used git, but only a little?
 Want to know more about collaborating with other people?
@@ -14,14 +14,14 @@ This accompanies [slides](http://bit.do/git_tutorial).
 This tutorial was developed for [PyLadies Vancouver](http://www.pyladies.com/locations/vancouver/).
 
 
-## Structure
+## Structure 🏗
 
 Instructions for following the tutorial are in the [docs](docs) folder.
 Code to modify and play with is in the [code](code) folder.
 Tests can be run with `python -m unittest` or `python -m unittest code.test_cattery` from this directory.
 
 
-## Prerequisites
+## Prerequisites 📝
 
 This assume you know the basics of using git on a single-person project.
 Specifically, this assumes you know how to:
@@ -44,7 +44,7 @@ Other prerequisites:
 * Command line (UNIX shell or Windows Powershell)
 
 
-## Goals
+## Goals 🔜
 
 By the time you're done, you should know how to contribute to an open source project.
 We're covering how to:
@@ -67,7 +67,7 @@ We're also showing two workflows.
  * Can still use pull requests to encourage code review
 
 
-## Other Resources
+## Other Resources 📚
 
 * [Think Like a Git](http://think-like-a-git.net) - Advanced-beginner level tutorial, focus on concepts
 * [Pro Git](https://git-scm.com/book) - Comprehensive reference book for git
@@ -76,7 +76,7 @@ We're also showing two workflows.
 * [Getting solid at Git rebase vs. merge](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa)
 
 
-## Created by
+## Created by 🎨
 
 * Holly Becker
  * Python developer
@@ -90,6 +90,6 @@ We're also showing two workflows.
 
 Some code from [catinabox Python testing tutorial](https://github.com/keeppythonweird/catinabox).
 
-## License
+## License 🍕
 
 The content of this project is licensed [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/), and the example source code is licensed under the MIT license.
