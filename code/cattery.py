@@ -36,6 +36,8 @@ class Cattery(object):
         :param names: A list of the names of cats to add to the cattery.
         """
         self._cats.extend(names)
+        for _ in range(100):
+            print('CATS!!!!!')
 
     def remove_cat(self, name):
         """Remove the specified cat from the cattery.
