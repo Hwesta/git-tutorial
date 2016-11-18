@@ -13,6 +13,8 @@ class CatNotFound(Exception):
         )
         self.name = name
 
+def Extra():
+    pass
 
 # Classes
 
