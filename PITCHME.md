@@ -3,7 +3,9 @@
 ## Plays Well with Others
 #### git intermediate tutorial
 
-<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="docs/images/by-sa.png" title="CC-BY-SA logo" /></a>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">
+![CC-BY-SA logo](docs/images/by-sa.png)
+</a>
 
 #HSLIDE
 
